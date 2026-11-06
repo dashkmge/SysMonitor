@@ -1,0 +1,11 @@
+# Base dark theme; fine-grained styling lives in the CSS block of app.py
+[theme]
+base = "dark"
+primaryColor = "#7c5ce0"
+backgroundColor = "#0b0b0e"
+secondaryBackgroundColor = "#101014"
+textColor = "#e4e4e7"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,6 @@
+streamlit>=1.37
+psutil>=5.9
+requests>=2.31
+python-dotenv>=1.0
+pandas
+altair
